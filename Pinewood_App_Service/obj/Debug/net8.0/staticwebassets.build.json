@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "1BXPxVTECYxsmt9LintdiaOd9Qsq8gMMqmUEpQMyFG0=",
+  "Source": "Pinewood_App_Service",
+  "BasePath": "_content/Pinewood_App_Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\richi\\source\\repos\\Pinewood_App\\Pinewood_App_API\\Pinewood_App_API.csproj",
+      "Version": 2,
+      "Source": "Pinewood_App_API",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
